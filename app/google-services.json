@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932218311207",
+    "project_id": "vepop-ccdef",
+    "storage_bucket": "vepop-ccdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932218311207:android:9757982f50eb7fc01c3402",
+        "android_client_info": {
+          "package_name": "com.example.vepop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932218311207-n265ov27qi85t95pl4j6gqf37tjn7guk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vepop",
+            "certificate_hash": "eca159fcbe288c281a68a731ab5a876412c4ac28"
+          }
+        },
+        {
+          "client_id": "932218311207-b6jd6blofqnina8valvr3l2fe41ksgsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKcMhsXeyGbjgf-hcRqBXz792odo1CR2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932218311207-b6jd6blofqnina8valvr3l2fe41ksgsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
